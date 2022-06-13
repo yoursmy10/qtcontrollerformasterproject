@@ -1,0 +1,28 @@
+﻿生成启动时间为 2022/3/28 19:15:15。
+     1>项目“D:\backup\autonomous_landing\QtGuiApplication1\QtGuiApplication1\QtGuiApplication1.vcxproj”在节点 2 上(Build 个目标)。
+     1>项目“D:\backup\autonomous_landing\QtGuiApplication1\QtGuiApplication1\QtGuiApplication1.vcxproj”(1)正在节点 2 上生成“D:\backup\autonomous_landing\QtGuiApplication1\QtGuiApplication1\QtGuiApplication1.vcxproj”(1:2) (Build 个目标)。
+     1>ClCompile:
+         D:\BAK\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I.\GeneratedFiles\Debug /I.\GeneratedFiles /I. /ID:\qt\5.12.12\msvc2015_64\include /I.\GeneratedFiles\Debug /ID:\qt\5.12.12\msvc2015_64\include\QtCore /ID:\qt\5.12.12\msvc2015_64\include\QtSql /ID:\qt\5.12.12\msvc2015_64\include\QtGui /ID:\qt\5.12.12\msvc2015_64\include\QtANGLE /ID:\qt\5.12.12\msvc2015_64\include\QtWidgets /ID:\qt\5.12.12\msvc2015_64\include\QtNetwork /ID:\qt\5.12.12\msvc2015_64\include\QtWebSockets /ID:\qt\5.12.12\msvc2015_64\include\QtDataVisualization /ID:\qt\5.12.12\msvc2015_64\include\QtMultimedia /ID:\qt\5.12.12\msvc2015_64\include\QtPrintSupport /ID:\qt\5.12.12\msvc2015_64\include\QtCharts /ID:\qt\5.12.12\msvc2015_64\include\QtSvg /Zi /nologo /W1 /WX- /MP /Od /D UNICODE /D _UNICODE /D WIN32 /D WIN64 /D QT_CORE_LIB /D QT_SQL_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /D QT_NETWORK_LIB /D QT_WEBSOCKETS_LIB /D QT_DATAVISUALIZATION_LIB /D QT_MULTIMEDIA_LIB /D QT_PRINTSUPPORT_LIB /D QT_CHARTS_LIB /D QT_SVG_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt dem_update.cpp
+         dem_update.cpp
+       Link:
+         D:\BAK\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\backup\autonomous_landing\QtGuiApplication1\x64\Debug\\QtGuiApplication1.exe" /NOLOGO /LIBPATH:D:\qt\5.12.12\msvc2015_64\lib qtmaind.lib Qt5Cored.lib Qt5Sqld.lib Qt5Guid.lib Qt5Widgetsd.lib Qt5Networkd.lib Qt5WebSocketsd.lib Qt5DataVisualizationd.lib Qt5Multimediad.lib Qt5PrintSupportd.lib Qt5Chartsd.lib Qt5Svgd.lib opencv_world3414d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\backup\autonomous_landing\QtGuiApplication1\x64\Debug\QtGuiApplication1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\backup\autonomous_landing\QtGuiApplication1\x64\Debug\QtGuiApplication1.lib" /MACHINE:X64 x64\Debug\communication.obj
+         x64\Debug\locdatabase.obj
+         x64\Debug\dem_update.obj
+         x64\Debug\lookahead_alert.obj
+         x64\Debug\main.obj
+         x64\Debug\multiwindow.obj
+         x64\Debug\qcustomplot.obj
+         x64\Debug\qrc_multiwindow.obj
+         x64\Debug\moc_multiwindow.obj
+         x64\Debug\moc_lookahead_alert.obj
+         x64\Debug\moc_qcustomplot.obj
+         x64\Debug\moc_communication.obj
+         x64\Debug\moc_dem_update.obj
+         x64\Debug\moc_locdatabase.obj
+         QtGuiApplication1.vcxproj -> D:\backup\autonomous_landing\QtGuiApplication1\x64\Debug\QtGuiApplication1.exe
+     1>已完成生成项目“D:\backup\autonomous_landing\QtGuiApplication1\QtGuiApplication1\QtGuiApplication1.vcxproj”(Build 个目标)的操作。
+     1>已完成生成项目“D:\backup\autonomous_landing\QtGuiApplication1\QtGuiApplication1\QtGuiApplication1.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:04.77
